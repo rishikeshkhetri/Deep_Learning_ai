@@ -1,2 +1,2 @@
 # Deep_Learning_ai
-This repository contains assignment solutions of deep learning specializations by coursera
+This repository contains solutions of assignments of deep learning specialization by coursera.
